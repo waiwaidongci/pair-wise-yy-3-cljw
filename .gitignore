@@ -17,5 +17,7 @@ coverage/
 .DS_Store
 Thumbs.db
 
+data/*.tmp
+
 .vscode/
 .idea/
